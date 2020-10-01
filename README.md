@@ -265,6 +265,4 @@ To contribute:
 |  [Marvell](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Software-Engineer-Intern_1901614) | Santa Clara, CA | Present |
 |  [Shutterfly](http://jobs.jobvite.com/shutterflyinc/job/osWUbfwd) | Redwood City, CA | Present |
 |  [Electronic Arts](https://www.ea.com/careers/students) | Various | Present |
-|
-
-
+|  [MLH](https://mlh.io/) |  Various Remote |  Present | [MLH](https://fellowship.mlh.io/), [Explorer](https://fellowship.mlh.io/programs/explorer) and [Open Source](https://fellowship.mlh.io/programs/open-source) Fellowships, Fall, Spring, Summer available (UPDATE: Externships now available for Fall, Spring and Summer! Refer [MLH externships](https://fellowship.mlh.io/programs/externship) site for more info) & [MLH Coach](https://mlh.io/coaches) positons now available (optional if you want to help others)|  
